@@ -4,15 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiruhasbobbadi" alt="chiruhasbobbadi" /></a> </p>
 
-- 🌱 I’m currently learning **Docker & Kubernetes**
-
 - 👨‍💻 All of my projects are available at [https://github.com/ChiruhasBobbadi](https://github.com/ChiruhasBobbadi)
 
-- 💬 Ask me about **nodejs, android development, react**
-
-- 📫 How to reach me **chiruhas.bobbadi@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aWovT7FVnQh11cBjEH_fRzCA8oc4fL_5/view?usp=share_link](https://drive.google.com/file/d/1aWovT7FVnQh11cBjEH_fRzCA8oc4fL_5/view?usp=share_link)
+- 📫 reach me @ **chiruhas.bobbadi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
